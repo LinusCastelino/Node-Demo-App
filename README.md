@@ -8,5 +8,5 @@ This app demonstrates use of basic modules (http, url, querystring & fs), routin
 
 To execute:
 1. Ensure Node.js is installed on the machine.
-2. Open command prompt and run the following command.
+2. Open command prompt and run the following command - 
     node app
